@@ -1,0 +1,7 @@
+{
+  "name": "s11-jamstack-mobile-tp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
